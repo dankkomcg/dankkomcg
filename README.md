@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dankkomcg
-- 👀 I’m interested in PHP, web scrapping, node.js, CI/CD, Docker, gitFlow...
+- 👋 Hi, I’m dankkomcg
+- 👀 I’m interested in PHP, SQL Server, MySQL, web scrapping, node.js, CI/CD, Docker, gitFlow...
 - 🌱 I’m currently learning web scrapping
-- 💞️ I’m looking to collaborate on ffm and footvipro
+- 💞️ I’m looking to collaborate with php projects, security packages, devops, ORM projects...
 - 📫 How to reach me dankkomcg@gmail.com
 
 <!---
